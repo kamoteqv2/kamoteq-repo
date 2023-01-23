@@ -5,7 +5,7 @@ channels:
     description: null
     configuration:
       onValue: "1"
-      stateExtension: /?req=stat&pin=0
+      stateExtension: /?req=stat&pin=14
       offValue: "0"
       commandExtension: /?req=set&pin=14&mode=%2$s
       stateTransformation: JSONPATH:$.status
