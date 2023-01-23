@@ -1,4 +1,3 @@
-channels:
   - id: nu-temp
     channelTypeUID: http:number
     label: nu-temp
