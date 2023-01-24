@@ -12,11 +12,11 @@ Alexa Voice Command | Siri Voice Command
 
 
 
-
+***Alexa Voice Command***
 [<img src="https://i.ytimg.com/vi/K-rQyatfA2I/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=K-rQyatfA2I "123")
 
 
-
+***Siri Voice Command***
 [<img src="https://i.ytimg.com/vi/9r0OxVhVjec/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=9r0OxVhVjec "123")
 
 
