@@ -8,4 +8,7 @@
  https://www.youtube.com/watch?v=9r0OxVhVjec&list=PLvIOcG0Bh-Th8nz9kItXS0oLkeGmPrMKc
 
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=9r0OxVhVjec&list=PLvIOcG0Bh-Th8nz9kItXS0oLkeGmPrMKc)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)]()
+
+
+<video src="https://www.youtube.com/watch?v=9r0OxVhVjec&list=PLvIOcG0Bh-Th8nz9kItXS0oLkeGmPrMKc"></video>
