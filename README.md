@@ -12,11 +12,11 @@ Alexa Voice Command | Siri Voice Command
 
 
 
-<p align="center">
-[<img src="https://i.ytimg.com/vi/K-rQyatfA2I/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=K-rQyatfA2I "123")
-</p>
 
-<p align="center">
-[<img src="https://i.ytimg.com/vi/9r0OxVhVjec/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=9r0OxVhVjec "123")
-</p>
+[<img src="https://i.ytimg.com/vi/K-rQyatfA2I/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=K-rQyatfA2I "123")
+
+
+
+[<img src="https://i.ytimg.com/vi/9r0OxVhVjec/maxresdefault.jpg" width="100%">](https://www.youtube.com/watch?v=9r0OxVhVjec "123")
+
 
