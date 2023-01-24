@@ -5,4 +5,4 @@
 ![alt text](https://github.com/kamoteqv2/kamoteq-repo/blob/main/lab-setup.jpg?raw=true)
 ![alt text](https://github.com/kamoteqv2/kamoteq-repo/blob/main/main.jpg?raw=true)
  
-<video src="https://github.com/kamoteqv2/kamoteq-repo/blob/main/alexa-voice-command-demo/demo.mp4"></video>
+<video src="https://www.youtube.com/watch?v=K-rQyatfA2I"></video>
