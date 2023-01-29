@@ -1,0 +1,11 @@
+channels:
+  - id: nu_pin14
+    channelTypeUID: http:switch
+    label: nu_pin14
+    description: null
+    configuration:
+      onValue: "1"
+      stateExtension: /?req=stat&pin=14
+      offValue: "0"
+      commandExtension: /?req=set&pin=14&mode=%2$s
+      stateTransformation: JSONPATH:$.status
